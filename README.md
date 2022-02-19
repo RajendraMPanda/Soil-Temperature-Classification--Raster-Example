@@ -1,5 +1,3 @@
-These sets of codes are originally developed by Rajendra Panda; Matt Levi has conceived the idea;
-This tool helps import, manipulate and classify raster datasets of soil temperature regimes;
+This tool helps import, manipulate and reclassify raster datasets;
+This also helps to quantify soil temperature from air temperature;
 Generates digital soil temperature maps;
-
-
